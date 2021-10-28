@@ -5,15 +5,19 @@ This project is simple Lorem ipsum dolor generator.
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Python 3.8.10
+* Flask 2.0.2
+* Flask-JWT 0.3.2
+* Flask-RESTful 0.3.9
+* Werkzeug 2.0.2
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project:
+* clone the repository,
+* make a virtualenv with dependenies from Technologies
+* in projest folder run:
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+$ python run app.py
+
 ```
