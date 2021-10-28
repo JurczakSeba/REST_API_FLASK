@@ -16,8 +16,5 @@ To run this project:
 * clone the repository,
 * make a virtualenv with dependenies from Technologies
 * in projest folder run:
-
-```
-$ python run app.py
-
+```$ python run app.py
 ```
